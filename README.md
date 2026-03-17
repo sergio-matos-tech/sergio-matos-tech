@@ -2,7 +2,6 @@
 <h3 align="center">"I'm passionate about building high-quality software, from architecture to implementation". <br>
   That is more than just a tagline for me; it's the core principle that guides my work and studies. For me, software techineering is a craft that balances art and science, and my goal is to master both sides.☕⚡
 </h3>
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="60" alt="salesforce logo"  />
