@@ -8,8 +8,8 @@
 
 ## 📌 About Me
 - "I'm passionate about building high-quality software, from architecture to implementation".
-- That is more than just a tagline for me; it's the core principle that guides my work and studies. For me, software engineering is a craft that balances art and science, and my goal is to master both sides.☕⚡
-
+- That is more than just a tagline for me; it's the core principle that guides my work and studies. For me, software engineering is a craft that balances art and science, and my goal is to master both sides.
+  
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sergio-matos-tech&theme=monokai&hide_border=true&cache_seconds=86400" alt="sergio-matos-tech's GitHub Streak" width="49%" />
