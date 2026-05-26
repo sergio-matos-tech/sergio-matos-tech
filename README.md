@@ -8,8 +8,7 @@
 
 ## 📌 About Me
 - "I'm passionate about building high-quality software, from architecture to implementation".
-- That is more than just a tagline for me; it's the core principle that guides my work and studies. For me, software techineering is a craft that balances art and science, and my goal is to master both sides.☕⚡
-
+- That is more than just a tagline for me; it's the core principle that guides my work and studies. For me, software engineering is a craft that balances art and science, and my goal is to master both sides.☕⚡
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
